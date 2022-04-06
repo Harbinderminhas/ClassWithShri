@@ -1,0 +1,13 @@
+INFO: this is ERROR method call
+INFO: instance created
+DEBUG: value ERROR is 234
+ERROR: connection refused
+INFO: this is method call
+INFO: instance created
+DEBUG: value is 234
+ERROR: connection BINGO denied
+INFO: this is method call
+INFO: instance created
+DEBUG: value is 234 BINGO
+ERROR: connection aborted BINGO
+ERRORBINGO
